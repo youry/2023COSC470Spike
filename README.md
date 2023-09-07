@@ -12,6 +12,8 @@ In the guided COSC 470 Spike 5-week project, you will build a data warehouse pro
 
 You will use two data sources: Yahoo Finance and the following data provider through the API https://site.financialmodelingprep.com/developer/docs/.
 
+It would be nice to monitor changes in the companies' stocks, but it can be done later in the main project. 
+
 **Deliverables:** (1) Source Code; (2) Working Application(s); (3) Design documentation; (4) A technical report in the form of a research paper submitted to https://arxiv.org (LaTeX).
 
 **Clients:** Paris East University, Paris, France and Langara College, BC, Canada.
